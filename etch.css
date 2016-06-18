@@ -1,0 +1,17 @@
+#container {
+	border: 2px solid black;
+	height: 800px;
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+}
+
+td {
+	background-color: white;
+	border: 1px solid black;
+}
